@@ -8,7 +8,7 @@ const Header = () => {
     <header className="bg-linear-to-r from-indigo-600 from-10% via-sky-500 via-30% to-emerald-500 to-90% ... py-5">
       <div>
         {/*LeftBar*/}
-        <Container className="flex items-center justify-between gap-7 text-lg">
+        <Container className="flex items-center justify-between gap-7 text-light">
           <HeaderMenu />
           <Logo />
           <div>RightBar</div>
